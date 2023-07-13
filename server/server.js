@@ -6,8 +6,8 @@ import cors from 'cors'
 import dotenv from 'dotenv'
 
 const app = express();
-connectDb();
 dotenv.config();
+connectDb();
 
 app.use(cors());
 app.use(express.json());
