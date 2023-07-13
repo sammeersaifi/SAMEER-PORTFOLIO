@@ -75,10 +75,10 @@ function About() {
                     <i className="bi bi-chevron-right"></i>
                     <strong>Website:</strong>{" "}
                     <a
-                      href="https://heysameer.netlify.app"
+                      href="https://client-5o12.onrender.com"
                       style={{ textDecoration: "none" }}
                     >
-                      https://heysameer.netlify.app
+                      https://client-5o12.onrender.com
                     </a>
                   </li>
                   <li>
