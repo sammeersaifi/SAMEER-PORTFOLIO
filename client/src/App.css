@@ -60,6 +60,7 @@
   }
 }
 
+
 .nav-menu a,
 .nav-menu a:focus {
   display: flex;
@@ -1197,6 +1198,3 @@ textarea.input1 + .shadow-input1 {
   height: 100%;
 }
 
-#about .row{
-  height: 200px;
-}

@@ -110,7 +110,7 @@ function About() {
           </div>
 
          
-        </div><br /><br /><br /><br /><br /><br />
+        </div>
         <div id="skills" className="skills section-bg my-5 mt-5">
       <div className="container">
         <div className="section-title">
